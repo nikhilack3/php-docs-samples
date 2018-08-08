@@ -1,6 +1,6 @@
 # App Engine for PHP 7.2
 
-*Please note ALL samples in this directory are in ALPHA*
+*Please note ALL samples in this directory are in BETA*
 
-[Sign up](https://goo.gl/qpQg5k ) to get alpha access.
+[Read the docs](https://cloud.google.com/appengine/docs/standard/php)
 
